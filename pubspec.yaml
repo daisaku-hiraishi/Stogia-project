@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: jp.co.stogia.stogia
+        package: jp.co.stogia.StogiaPlugin
         pluginClass: StogiaPlugin
       ios:
         pluginClass: StogiaPlugin
