@@ -1,4 +1,4 @@
-package jp.co.stogia.stogia;
+package jp.co.stogia.StogiaPlugin;
 
 import androidx.annotation.NonNull;
 

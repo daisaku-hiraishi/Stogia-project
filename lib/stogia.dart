@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:flutter/services.dart';
 
 class Stogia {
-  static const MethodChannel _channel = MethodChannel('stogia');
+  static const MethodChannel _channel = MethodChannel('stogie');
 
   static Future<String?> get platformVersion async {
     final String? version = await _channel.invokeMethod('getPlatformVersion');
