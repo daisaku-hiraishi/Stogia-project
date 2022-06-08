@@ -2,7 +2,6 @@
     package="jp.co.stogia.stogia_example">
    <application
         android:label="stogia_example"
-        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
